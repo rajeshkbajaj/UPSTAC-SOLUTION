@@ -1,12 +1,12 @@
 {
-  "address": "Rajesh Bajaj",
-  "dateOfBirth": "1981-11-21",
-  "email": "newuser@upgrad.com",
-  "firstName": "Rajesh",
-  "gender": "MALE",
-  "lastName": "Bajaj",
-  "password": "password",
-  "phoneNumber": 9652632905,
-  "pinCode": 500019,
-  "userName": "newuser"
+     "address": "Some Where in India", 
+     "dateOfBirth": "1981-11-21", 
+     "email": "newusergupgrad.com", 
+     "firstName": "MK",
+     "gender": "FEMALE",
+     "lastName": "Gandhi",
+     "password": "password",
+     "phoneNumber": 988989232, 
+     "pinCode": 602102,
+     "userName": "newuser"
 }
